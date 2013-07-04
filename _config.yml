@@ -1,6 +1,6 @@
 title:            Bits and Bikes
 description:      Yet Another Blog
-logo:             Delmore-Gifford.jpg
+logo:             Delmore-Moab.jpg
 disqus_shortname: sosimpletheme
 #Comment out url when working locally to resolve base urls correctly
 # url:              http://mmistakes.github.io/so-simple-theme
@@ -29,12 +29,12 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
+  # - title: Abocut
+  #   url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
+  # - title: Theme Setup
+  #   url: /theme-setup
   - title: Home
     url: http://shanedelmore.com
     external: false
