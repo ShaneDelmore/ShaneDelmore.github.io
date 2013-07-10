@@ -2,22 +2,20 @@
 layout: post
 title: "Bring the Pain Forward"
 description: ""
+category: articles
 tags: [Ergonomics, Hardware]
 image:
   feature: ergodox.jpg
 ---
 <!--- {% include JB/setup %} -->
-Write some stuff about soldering, awesome people like Dox and inspiration from Jez Humbold.
-Include a few more pictures of the build process and notes on testing.
-
 I have had a few people ask me to do a writeup on building my keyboard after seeing
 me using it at some of the local programming meetups.  I was all set to take on the task but 
 decided to do a quick google before I started only to find that
 [massdrop](https://www.massdrop.com/ext/ergodox/assembly.php) has already done a much
 better job than I could of documenting the process.  
 
-Since I am already sitting here typing I am going to switch gears to why I built it 
-instead of how, plus a few notes on gotchas I ran into.   
+So I'll switch gears and touch on why I built it instead of how, throwing in some notes on a few gotchas I ran into. 
+   
 
 I have tried my hand at soldering a few times over the years and always been disappointed
 with the outcome.  I would need to solder a few wires for a light or some other trivial 
@@ -53,3 +51,12 @@ Get a decent soldering iron.  You don't have to spend hundreds on it but I found
 I was struggling with consistency using a radio shack soldering iron I picked up
 for $15.  Once I switched to a [Haako](http://www.hakko.com/english/products/hakko_fx888d.html) 
 I had a much easier time getting consistent results.
+
+If you are trying to assemble one of these and have problems check your connections.
+The correct way to test is not to test at the pins of the key or diode, but at the pad 
+to verify that you are actually getting current flowing all the way through to the 
+board.  For keys you should see the resistance drop once a key is pressed.  
+The diodes are directional, make sure you have a good connection and that they 
+are soldered to the board in the correct direction.  I had messed up a few of my initial 
+joints on both keys and diodes and was able to troubleshoot it using the 
+instructions posted [here](http://www.allaboutcircuits.com/vol_3/chpt_3/2.html)
