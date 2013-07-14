@@ -12,7 +12,7 @@ I have had a few people ask me to do a write up about what went into building my
 
 So I decided instead to touch on *why* I built it instead of *how*, throwing in some notes on a few gotchas I ran into.
 
-I have tried my hand at soldering a few times over the years and always been disappointed with the outcome. (I would need to solder a few wires for a light or some other minor home project that only required making a few connections – enough to get frustrated at my lack of skills, but not enough to actually get any good at it.)
+I have tried my hand at soldering a few times over the years and have always been disappointed with the outcome. (I would need to solder a few wires for a light or some other minor home project that only required making a few connections – enough to get frustrated at my lack of skills, but not enough to actually get any good at it.)
 
 I tend to be always tinkering with something or reading a tech book or some such, and it just happened this time that while I was growing increasingly frustrated with my old keyboard I was also reading [Continuous Delivery](http://www.thoughtworks.com/continuous-delivery) by Jez Humble and David Farley. There is a phrase in Continuous Delivery I’ve heard often in the software game, but this time it just resonated with me in a way it never had in the past. While I previously had considered this phrase solely in a programming context, this particular day it just felt so obvious that I needed to apply it to the art of soldering. Clearly, tinkering with the hardware I wanted to work with would remain impossible unless I did something to build up my soldering chops.
 
